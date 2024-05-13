@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Grčki Kino (20/80)</string>
+    <string name="draw_time">Vreme izvlačenja</string>
+    <string name="remaining_time">Preostalo vreme</string>
+    <string name="field">Talon</string>
+    <string name="round">Kolo</string>
+    <string name="add_games">Dodaj igre</string>
+    <string name="live_drawing">Izvlačenje uživo</string>
+    <string name="fast_kino">Brzi kino</string>
+    <string name="drawing_results">Rezultati izvlačenja</string>
+    <string name="quota">Kvota</string>
+    <string name="random_selection">Slučajni odabir</string>
+    <string name="numbers">Brojeva:</string>
+</resources>

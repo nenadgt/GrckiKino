@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#000000</color>
+    <color name="rounds_header_color">#5d5d5d</color>
+    <color name="spacer_color">#0e1c42</color>
+    <color name="text_color">#ffffff</color>
+    <color name="left_text_color">#5e2730</color>
+    <color name="round_header_color">#0e1c42</color>
+    <color name="button_pressed_color">#115522</color>
+    <color name="button_unpressed_color">#111111</color>
+    <color name="qouta_header">#191b21</color>
+    <color name="round_text_color">#eeeeee</color>
+    <color name="round_button_color">#1e94e7</color>
+</resources>
